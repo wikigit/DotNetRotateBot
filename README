@@ -1,0 +1,19 @@
+DotNetRotateBot is a backup bot for User:Rotatebot on Wikimedia Commons (http://commons.wikimedia.org/wiki/User:Rotatebot) written in a different language that is used sometimes when Rotatebot fails. It usually runs under User:Dcoetzeebot:
+
+http://commons.wikimedia.org/wiki/User:DcoetzeeBot
+
+Written in C#, tested only on Windows, not on Mono. Run on demand.
+
+Uses a modified version of DotNetWikiBot, from:
+
+http://dotnetwikibot.sourceforge.net/
+
+Also uses a Windows binary of JPEGtran from:
+
+http://jpegclub.org/jpegtran/
+
+Version is unknown but was downloaded sometime in 2010.
+
+License:
+MIT/X11 License
+http://www.opensource.org/licenses/mit-license.php
